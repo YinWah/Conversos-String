@@ -1,0 +1,3 @@
+Nombre: Kmara
+Boleta: 2016090680
+Promedio: 6.3
